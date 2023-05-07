@@ -4,6 +4,7 @@ splitWiseServer/users
 splitWiseServer/history
 splitWiseServer/forzipping
 splitWiseServer/target
+splitWiseServer/.vscode
 splitWiseClient/forzipping
 splitWiseClient/target
-
+splitWiseClient/.vscode
