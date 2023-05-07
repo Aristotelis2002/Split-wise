@@ -1,0 +1,9 @@
+splitWiseServer/database
+splitWiseServer/logs
+splitWiseServer/users
+splitWiseServer/history
+splitWiseServer/forzipping
+splitWiseServer/target
+splitWiseClient/forzipping
+splitWiseClient/target
+
