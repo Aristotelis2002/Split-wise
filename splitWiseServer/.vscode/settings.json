@@ -1,6 +1,0 @@
-{
-    "java.format.settings.url": "checkstyle.xml",
-    "java.checkstyle.configuration": "${workspaceFolder}/checkstyle.xml",
-    "java.configuration.updateBuildConfiguration": "interactive"
-    //https://raw.githubusercontent.com/fmi/java-course/master/docs/01-code-analysis-tools/checkstyle/checkstyle.xml
-}
