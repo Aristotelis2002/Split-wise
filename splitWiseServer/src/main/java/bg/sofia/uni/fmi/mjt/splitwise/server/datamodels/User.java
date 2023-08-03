@@ -130,7 +130,7 @@ public class User implements Serializable {
         });
 
         HistoryLogger.getInstance()
-                .log(new UsernameEventPair(username, "You splitted" +
+                .log(new UsernameEventPair(username, "You splitted " +
                         DF.format(amount) + " LV with the group " + groupName +
                         "[" + reason + "]"));
     }
